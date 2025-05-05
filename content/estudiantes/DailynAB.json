@@ -19,13 +19,6 @@
             "description":"Atender el negocio"
         }
     ],
-    "projects":[
-        {
-            "title":"Ing en Informática - Municipio Bolívar",
-            "rol":"Promotor",
-            "description":"Como profesor y habitante de la ciudad de Barinitas impulse la oferta de la carrera de Ingeniería en informática en la extension del Municipio Bolívar, para los jovenes de esta localidad."
-        }
-    ],
     "contact":[
         {"name":"Github",
         "url":"https://github.com/DailynAB",
